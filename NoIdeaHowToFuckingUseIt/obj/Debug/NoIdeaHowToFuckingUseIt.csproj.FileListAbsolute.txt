@@ -1,0 +1,13 @@
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\obj\Debug\NoIdeaHowToFuckingUseIt.csprojResolveAssemblyReference.cache
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\NoIdeaHowToFuckingUseIt.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\NoIdeaHowToFuckingUseIt.pdb
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\DAL.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\Entity.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\MongoDB.Driver.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\MongoDB.Bson.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\DAL.pdb
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\Entity.pdb
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\MongoDB.Driver.xml
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\bin\Debug\MongoDB.Bson.xml
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\obj\Debug\NoIdeaHowToFuckingUseIt.dll
+E:\Projects\labs\@.net\DAL\NoIdeaHowToFuckingUseIt\obj\Debug\NoIdeaHowToFuckingUseIt.pdb

@@ -1,0 +1,16 @@
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\SuperCoolTest.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\SuperCoolTest.pdb
+E:\Projects\labs\@.net\DAL\SuperCoolTest\obj\Debug\SuperCoolTest.csprojResolveAssemblyReference.cache
+E:\Projects\labs\@.net\DAL\SuperCoolTest\obj\Debug\SuperCoolTest.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\obj\Debug\SuperCoolTest.pdb
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\DAL.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\Entity.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\IDAL.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\MongoDB.Bson.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\MongoDB.Driver.dll
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\DAL.pdb
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\Entity.pdb
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\IDAL.pdb
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\MongoDB.Bson.xml
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\MongoDB.Driver.xml
+E:\Projects\labs\@.net\DAL\SuperCoolTest\bin\Debug\SuperCoolTest.dll.config

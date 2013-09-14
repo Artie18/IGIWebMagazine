@@ -1,0 +1,9 @@
+E:\Projects\labs\@.net\DAL\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\Entity.dll
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\Entity.pdb
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Bson.dll
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Driver.dll
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Bson.xml
+E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Driver.xml
+E:\Projects\labs\@.net\DAL\Entity\obj\Debug\Entity.dll
+E:\Projects\labs\@.net\DAL\Entity\obj\Debug\Entity.pdb

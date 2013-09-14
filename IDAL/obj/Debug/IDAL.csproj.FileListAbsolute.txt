@@ -1,0 +1,11 @@
+E:\Projects\labs\@.net\DAL\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\IDAL.dll
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\IDAL.pdb
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\MongoDB.Bson.dll
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\MongoDB.Driver.dll
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\MongoDB.Bson.xml
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\MongoDB.Driver.xml
+E:\Projects\labs\@.net\DAL\IDAL\obj\Debug\IDAL.dll
+E:\Projects\labs\@.net\DAL\IDAL\obj\Debug\IDAL.pdb
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\Entity.dll
+E:\Projects\labs\@.net\DAL\IDAL\bin\Debug\Entity.pdb
