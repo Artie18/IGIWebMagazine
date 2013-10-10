@@ -17,14 +17,14 @@ namespace DAL.Implementation
             return MongoHelper<User>.Add(entity);
         }
 
-        public User Update(ObjectId id, User entity)
+        public User Update(User entity)
         {
-            throw new NotImplementedException();
+            return MongoHelper<User>.Update(entity);
         }
 
-        public bool Delete(MongoDB.Bson.ObjectId id)
+        public bool Delete(String id)
         {
-            throw new NotImplementedException();
+            return MongoHelper<User>.Remove(id);
         }
     }
 }

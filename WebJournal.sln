@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDAL", "IDAL\IDAL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperCoolTest", "SuperCoolTest\SuperCoolTest.csproj", "{A7B06CA2-A8E3-4CF6-BCA6-E076D1664D11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "BL\BL.csproj", "{20B6A9D3-20FC-408A-95CD-0C18CD77E79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBL", "IBL\IBL.csproj", "{32A93FB0-4542-473B-9A91-42EC0ADC22BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{A7B06CA2-A8E3-4CF6-BCA6-E076D1664D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7B06CA2-A8E3-4CF6-BCA6-E076D1664D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7B06CA2-A8E3-4CF6-BCA6-E076D1664D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B6A9D3-20FC-408A-95CD-0C18CD77E79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B6A9D3-20FC-408A-95CD-0C18CD77E79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B6A9D3-20FC-408A-95CD-0C18CD77E79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B6A9D3-20FC-408A-95CD-0C18CD77E79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A93FB0-4542-473B-9A91-42EC0ADC22BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A93FB0-4542-473B-9A91-42EC0ADC22BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A93FB0-4542-473B-9A91-42EC0ADC22BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A93FB0-4542-473B-9A91-42EC0ADC22BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

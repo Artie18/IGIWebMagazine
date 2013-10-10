@@ -11,3 +11,16 @@ E:\Projects\labs\@.net\DAL\DAL\bin\Debug\IDAL.dll
 E:\Projects\labs\@.net\DAL\DAL\bin\Debug\IDAL.pdb
 E:\Projects\labs\@.net\DAL\DAL\bin\Debug\Entity.dll
 E:\Projects\labs\@.net\DAL\DAL\bin\Debug\Entity.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\DAL.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\DAL.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\Entity.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\IDAL.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\MongoDB.Bson.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\MongoDB.Driver.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\Entity.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\IDAL.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\MongoDB.Bson.xml
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\bin\Debug\MongoDB.Driver.xml
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\obj\Debug\DAL.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\DAL\obj\Debug\DAL.pdb

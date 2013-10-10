@@ -52,7 +52,6 @@
     <Compile Include="Parents\ParentNoIdEntity.cs" />
     <Compile Include="Parents\StructureParent.cs" />
     <Compile Include="Post\Comment.cs" />
-    <Compile Include="Post\Comments.cs" />
     <Compile Include="Parents\ParentEntity.cs" />
     <Compile Include="Media\Photo.cs" />
     <Compile Include="Post\Post.cs" />

@@ -7,3 +7,11 @@ E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Bson.xml
 E:\Projects\labs\@.net\DAL\Entity\bin\Debug\MongoDB.Driver.xml
 E:\Projects\labs\@.net\DAL\Entity\obj\Debug\Entity.dll
 E:\Projects\labs\@.net\DAL\Entity\obj\Debug\Entity.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\Entity.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\Entity.pdb
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\MongoDB.Bson.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\MongoDB.Driver.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\MongoDB.Bson.xml
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\bin\Debug\MongoDB.Driver.xml
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\obj\Debug\Entity.dll
+C:\Users\Artyom\Documents\Проекты\igi\IGIWebMagazine\Entity\obj\Debug\Entity.pdb

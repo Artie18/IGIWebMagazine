@@ -10,8 +10,8 @@ namespace DAL
     public interface IData<T>
     {
         T Create(T entity);
-        T Update(ObjectId id, T entity);
-        bool Delete(ObjectId id);
+        T Update(T entity);
+        bool Delete(string id);
         // read
     }
 }
